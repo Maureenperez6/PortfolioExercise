@@ -1,0 +1,35 @@
+body {
+    background-color:Lavender ;
+   
+  }
+  
+  h1 {
+    color: rgb(15, 15, 15);
+    text-align: center;
+    
+  }
+  
+  #p {
+    font-family: Garamond;
+    font-size: 60px;
+    text-align: center;
+ 
+  }
+  
+  h2 {
+    color: rgb(15, 15, 15);
+    text-align: center;
+  }
+
+  h3 {
+    color: rgb(15, 15, 15);
+    font-size: 50px;
+    
+  }
+  
+  #p {
+    font-family: Garamond;
+    font-size: 60px;
+    text-align: center;
+    
+  }
